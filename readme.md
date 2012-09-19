@@ -1,6 +1,7 @@
 # iOS-Image-Presenter
 
 Instructions:
+
 1. Copy the methods into your base viewController Class 
 	viewImage:view:viewBounds:
 	dismissImageView 
